@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">NewKinoproisk</string>
+    <string name="button1">MENU</string>
+    <string name="button2">FAVORITES</string>
+    <string name="button3">LATER</string>
+    <string name="button4">COLLECTIONS</string>
+    <string name="button5">SETTINGS</string>
+    <string name="button6">BUTTON6</string>
 </resources>
